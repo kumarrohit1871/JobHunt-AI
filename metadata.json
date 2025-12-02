@@ -1,0 +1,5 @@
+{
+  "name": "JobHunt AI",
+  "description": "An AI-powered job search assistant that analyzes your resume for ATS friendliness, finds matching jobs using real-time search, and generates tailored application materials.",
+  "requestFramePermissions": []
+}
